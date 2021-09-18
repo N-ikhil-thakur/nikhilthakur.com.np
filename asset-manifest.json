@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.552f66f6.chunk.css",
+    "main.js": "/static/js/main.f77d837c.chunk.js",
+    "main.js.map": "/static/js/main.f77d837c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d21ddca7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d21ddca7.js.map",
+    "static/js/2.73752386.chunk.js": "/static/js/2.73752386.chunk.js",
+    "static/js/2.73752386.chunk.js.map": "/static/js/2.73752386.chunk.js.map",
+    "static/js/3.dc471867.chunk.js": "/static/js/3.dc471867.chunk.js",
+    "static/js/3.dc471867.chunk.js.map": "/static/js/3.dc471867.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.552f66f6.chunk.css.map": "/static/css/main.552f66f6.chunk.css.map",
+    "static/js/2.73752386.chunk.js.LICENSE.txt": "/static/js/2.73752386.chunk.js.LICENSE.txt",
+    "static/media/3969587.0e356a6a.jpg": "/static/media/3969587.0e356a6a.jpg",
+    "static/media/binaries_logo.a66b7e3d.png": "/static/media/binaries_logo.a66b7e3d.png",
+    "static/media/binaries_logo_w.5dfbf416.png": "/static/media/binaries_logo_w.5dfbf416.png",
+    "static/media/icon.273e46db.ico": "/static/media/icon.273e46db.ico",
+    "static/media/not_found.9059331c.jpg": "/static/media/not_found.9059331c.jpg",
+    "static/media/profile_pic.489a6667.jpg": "/static/media/profile_pic.489a6667.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d21ddca7.js",
+    "static/js/2.73752386.chunk.js",
+    "static/css/main.552f66f6.chunk.css",
+    "static/js/main.f77d837c.chunk.js"
+  ]
+}
